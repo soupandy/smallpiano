@@ -1,0 +1,5 @@
+
+
+./compile.sh -Ddrumsapp smallpiano80.c -o smallpiano80-drums
+./compile.sh smallpiano80.c -o smallpiano80-mainapp
+./smallpiano80-drums just.mid
